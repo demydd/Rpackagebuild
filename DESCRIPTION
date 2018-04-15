@@ -1,12 +1,11 @@
 Package: Rpackagebuild
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Process, manipulate and visualize data from https://www.nhtsa.gov/Data/Fatality-Analysis-Reporting-System-(FARS)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Demyd Dzyuban
+Maintainer: The package maintainer <demydd@gmail.com>
+Description: The package is designed to perform fast and plain data manpulation and visualization of fatality records.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Suggests: knitr,
