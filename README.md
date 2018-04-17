@@ -1,4 +1,4 @@
 # Rpackagebuild
 For coursera exercises on R package development
 
-\url{https://travis-ci.org/demydd/Rpackagebuild.svg?branch=master}
+[![Build Status](https://travis-ci.org/demydd/Rpackagebuild.svg?branch=master)](https://travis-ci.org/demydd/Rpackagebuild)
