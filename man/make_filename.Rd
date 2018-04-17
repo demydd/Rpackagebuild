@@ -38,7 +38,7 @@ Demyd Dzyuban
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-filename <- make_filename('1978')
+# filename <- make_filename('1978')
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

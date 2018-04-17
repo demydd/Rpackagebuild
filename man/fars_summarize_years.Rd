@@ -38,7 +38,7 @@ Demyd Dzyuban
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-years_output <- fars_summarize_years(c(1978, 1979))
+# years_output <- fars_summarize_years(c(1978, 1979))
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

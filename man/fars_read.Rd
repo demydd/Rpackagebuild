@@ -41,7 +41,7 @@ Stop reading if the file does not exist.
 %% ~~objects to See Also as \code{\link{help}}, ~~~
 }
 \examples{
-input_data <- fars_read("data_source.txt")
+# input_data <- fars_read("data_source.txt")
 }
 
 % Add one or more standard keywords, see file 'KEYWORDS' in the

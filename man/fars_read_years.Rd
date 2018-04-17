@@ -38,7 +38,7 @@ Demyd Dzyuban
 \code{\link{fars_read}}, \code{\link{make_filename}}
 }
 \examples{
-years_output <- fars_read_years(c(1978, 197))
+# years_output <- fars_read_years(c(1978, 197))
 }
 \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
 \keyword{ ~kwd2 }% __ONLY ONE__ keyword per line

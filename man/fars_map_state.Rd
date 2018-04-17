@@ -41,7 +41,7 @@ Demyd Dzyuban
 \code{\link{fars_read}}, \code{\link{make_filename}}, \code{\link{fars_read_years}}, \code{\link{fars_summarize_years}}
 }
 \examples{
-years_output <- fars_map_state(21,1978)
+## years_output <- fars_map_state(num.state, year)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
