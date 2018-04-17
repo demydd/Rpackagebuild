@@ -8,6 +8,14 @@ Description: The package is designed to perform fast and plain data manpulation 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Suggests: knitr,
-    rmarkdown
+Imports:
+    dplyr,
+    graphics,
+    knitr,
+    maps,
+    readr,
+    tidyr
+Suggests:
+    devtools,
+    testthat
 VignetteBuilder: knitr
